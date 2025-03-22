@@ -60,7 +60,7 @@ Di Program ini terdiri dari beberapa class :
 
 # Dokumentasi
 
-![](https://github.com/nipqt/TP4DPBO2025C2/blob/main/Screenshots/2025-03-23%2001-56-41.gif)
+![](https://github.com/nipqt/TP4DPBO2025C2/blob/main/Screenshots/2025-03-23%2003-45-11.gif)
 ![](https://github.com/nipqt/TP4DPBO2025C2/blob/main/Screenshots/WhatsApp%20Image%202025-03-23%20at%2002.09.26.jpeg)
 ![](https://github.com/nipqt/TP4DPBO2025C2/blob/main/Screenshots/WhatsApp%20Image%202025-03-23%20at%2002.09.55.jpeg)
 ![](https://github.com/nipqt/TP4DPBO2025C2/blob/main/Screenshots/WhatsApp%20Image%202025-03-23%20at%2002.10.22.jpeg)
